@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://clemlc00.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Proyectos representativos</title>
+      <title>Encargo 0</title>
       <link>https://clemlc00.github.io/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -17,16 +17,7 @@
     </item>
     
     <item>
-      <title>Boaz by Daniel Libeskind</title>
-      <link>https://clemlc00.github.io/docs/sillas-y-sus-referentes/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://clemlc00.github.io/docs/sillas-y-sus-referentes/</guid>
-      <description>En este encargo lo que se pidio fue la realización de dibujos hechos a mano de dos sillas a elección propia. Además de esto se entregará información de los diseñadores/referentes y parte de su contexto. PARTE 1/2.</description>
-    </item>
-    
-    <item>
-      <title>B4 by Marcel Breuer</title>
+      <title>Encargo 1.0</title>
       <link>https://clemlc00.github.io/docs/marcel-breuer/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -35,16 +26,16 @@
     </item>
     
     <item>
-      <title>Propuesta Grupal</title>
-      <link>https://clemlc00.github.io/docs/propuesta-grupal/</link>
+      <title>Encargo 1.1</title>
+      <link>https://clemlc00.github.io/docs/sillas-y-sus-referentes/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://clemlc00.github.io/docs/propuesta-grupal/</guid>
-      <description>Proyecto grupal  sobre la creación de una propuesta de diseño para una silla</description>
+      <guid>https://clemlc00.github.io/docs/sillas-y-sus-referentes/</guid>
+      <description>En este encargo lo que se pidio fue la realización de dibujos hechos a mano de dos sillas a elección propia. Además de esto se entregará información de los diseñadores/referentes y parte de su contexto. PARTE 1/2.</description>
     </item>
     
     <item>
-      <title>Propuesta Personal</title>
+      <title>Encargo 1.2</title>
       <link>https://clemlc00.github.io/docs/pdf-personal/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -53,12 +44,30 @@
     </item>
     
     <item>
-      <title>Propuesta Grupal</title>
-      <link>https://clemlc00.github.io/docs/propuesta-grupal-2.0/</link>
+      <title>Encargo 1.3</title>
+      <link>https://clemlc00.github.io/docs/propuesta-grupal/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://clemlc00.github.io/docs/propuesta-grupal-2.0/</guid>
+      <guid>https://clemlc00.github.io/docs/propuesta-grupal/</guid>
       <description>Proyecto grupal  sobre la creación de una propuesta de diseño para una silla</description>
+    </item>
+    
+    <item>
+      <title>Encargo 1.5</title>
+      <link>https://clemlc00.github.io/docs/encargo-1.5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://clemlc00.github.io/docs/encargo-1.5/</guid>
+      <description>Proyecto grupal  sobre la creación de una propuesta de diseño para una silla</description>
+    </item>
+    
+    <item>
+      <title>Post 2.0</title>
+      <link>https://clemlc00.github.io/docs/post-2.0/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://clemlc00.github.io/docs/post-2.0/</guid>
+      <description>Entrega y presentación de entrevistas.</description>
     </item>
     
     <item>
